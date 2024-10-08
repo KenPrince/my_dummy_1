@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853785294764",
+    "firebase_url": "https://dummyapp-428f9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dummyapp-428f9",
+    "storage_bucket": "dummyapp-428f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853785294764:android:dd7aed45b1272af122ec09",
+        "android_client_info": {
+          "package_name": "com.dummy1.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIDTZRT3ytgnzUmLYe8paQRvUgnlk9n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
